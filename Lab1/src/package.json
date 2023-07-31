@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-helloworld",
+    "version": "1.0.0",
+    "description": "Hello World!",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Red Hat Training",
+    "license": "ASL",
+    "dependencies": {
+      "express": "^4.18.2",
+      "prom-client": "^14.2.0"
+    }
+  }
